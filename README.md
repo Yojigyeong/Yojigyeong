@@ -32,7 +32,7 @@
 
 ## 라이선스
 
-    Copyright [2021] [Vaccine-on]
+    Copyright [2021] [Yojigyeong]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
